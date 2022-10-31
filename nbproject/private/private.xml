@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Student/SWP/Nhan/src/java/orderControl/SearchBorow.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/entity/Account.java</file>
+            <file>file:/D:/Student/SWP/Nhan/web/profile.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/orderControl/MO_ShowConfirmed_C.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/orderDAO/AccountUser_D.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/entity/BookDetail.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/orderControl/SearchConfim.java</file>
+            <file>file:/D:/Student/SWP/Nhan/web/Detail.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/web/MA_accountUser.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/BaseDAO/SearchByCharacters.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/cartControl/CartControl.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/orderDAO/CompletedOrder_D.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/bookControl/DeleteBook.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/context/DBContext.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/orderControl/MO_Return_C.java</file>
+            <file>file:/D:/Student/SWP/Nhan/web/homePage.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/entity/AccountUser_E.java</file>
+            <file>file:/D:/Student/SWP/Nhan/web/insertBook.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/cartControl/ShowCartControl.java</file>
+            <file>file:/D:/Student/SWP/Nhan/web/Header.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/web/MO_confirmedOder.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/web/EnterOtp.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/web/newPassword.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/web/forgotPassword.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/web/Cart.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/web/login_signUp.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/web/Layout1.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/orderControl/NewServlet.java</file>
+            <file>file:/D:/Student/SWP/Nhan/web/updateBook.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/web/MO_completedOrder.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/cartControl/OrderControl.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/bookControl/detailControl.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/cartControl/SubControl.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/cartControl/RemoveBookControl.java</file>
+            <file>file:/D:/Student/SWP/Nhan/web/MO_borrowOrder.jsp</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/bookControl/SearchControl.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/bookControl/DetailBook.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/bookControl/UpdateBookControl.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/bookControl/InsertBook.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/control/LoginControl.java</file>
+            <file>file:/D:/Student/SWP/Nhan/src/java/entity/CompletedOrder_E.java</file>
+        </group>
+    </open-files>
+</project-private>
